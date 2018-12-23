@@ -1,0 +1,10 @@
+E:\Programming\csgodemoviewer\bin\x86\Debug\csgodemoviewer.exe.config
+E:\Programming\csgodemoviewer\bin\x86\Debug\csgodemoviewer.exe
+E:\Programming\csgodemoviewer\bin\x86\Debug\csgodemoviewer.pdb
+E:\Programming\csgodemoviewer\bin\x86\Debug\DemoInfo.dll
+E:\Programming\csgodemoviewer\bin\x86\Debug\DemoInfo.pdb
+E:\Programming\csgodemoviewer\bin\x86\Debug\DemoInfo.xml
+E:\Programming\csgodemoviewer\bin\x86\Debug\DemoInfo.dll.config
+E:\Programming\csgodemoviewer\obj\x86\Debug\csgodemoviewer.csproj.CoreCompileInputs.cache
+E:\Programming\csgodemoviewer\obj\x86\Debug\csgodemoviewer.exe
+E:\Programming\csgodemoviewer\obj\x86\Debug\csgodemoviewer.pdb
